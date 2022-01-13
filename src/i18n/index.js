@@ -7,7 +7,7 @@ import te from './te'
 
 const messages = {
   'en': en,
-  ta: ta,
+  // ta: ta,
   // ka:ka,
   // ma:ma,
   // te:te,
